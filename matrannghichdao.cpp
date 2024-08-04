@@ -125,4 +125,3 @@ if(det!=0)
 else printf("\n KHONG CO MA TRAN NGHICH DAO.");
 getch();
 }
-//6:43 PM 4/18/2010 
